@@ -1,0 +1,3 @@
+Implementation,Matrix_Size,Threads,Execution_Time_Seconds,Speedup,Efficiency_Percent
+Sequential,4000x4000,1,176.238106,1.00,100.00
+OpenMP,4000x4000,8,38.773030,4.55,56.82
